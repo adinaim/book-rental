@@ -1,0 +1,28 @@
+djangorestframework
+django-filter
+
+drf-yasg
+
+djangorestframework-simplejwt
+
+python-decouple
+Pillow
+# work with postgres
+psycopg2-binary
+
+python-slugify
+celery
+redis
+
+# parsing
+beautifulsoup4
+requests
+lxml
+selenium
+scrapy
+
+# orm
+peewee    # встроенный в джанго?
+
+# for .env
+python-decouple
